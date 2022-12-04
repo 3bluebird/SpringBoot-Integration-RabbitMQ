@@ -6,7 +6,7 @@ import lombok.Getter;
 /**
  * 路由 key 常量
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:03
  */
 @Getter

@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * RabbitMQ 交换机和队列配置
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/13 19:04
  */
 @Configuration

@@ -15,7 +15,7 @@ import java.util.Objects;
 /**
  * 死信队列消费
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/15 09:38
  */
 @Slf4j

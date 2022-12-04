@@ -16,7 +16,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * Direct 发送消息，默认消息发送器
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:13
  */
 @Slf4j

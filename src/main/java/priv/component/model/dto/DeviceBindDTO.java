@@ -7,7 +7,7 @@ import priv.component.constant.CommandConstant;
 /**
  * 设备绑定 DTO
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:34
  */
 @Data

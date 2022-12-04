@@ -10,7 +10,7 @@ import priv.component.constant.enums.RoutingKeyEnum;
 /**
  * RabbitMQ 死信交换器和队列配置
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/15 09:36
  */
 @Configuration

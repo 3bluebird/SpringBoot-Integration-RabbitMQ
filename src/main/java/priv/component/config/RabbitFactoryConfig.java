@@ -18,7 +18,7 @@ import java.util.Collections;
 /**
  * RabbitMQ 配置
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/13 18:42
  */
 @Slf4j

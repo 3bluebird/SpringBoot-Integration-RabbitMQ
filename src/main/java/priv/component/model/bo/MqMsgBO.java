@@ -11,7 +11,7 @@ import javax.validation.constraints.NotNull;
 /**
  * MQ 消息 BO
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:21
  */
 @Data

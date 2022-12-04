@@ -3,7 +3,7 @@ package priv.component.exception;
 /**
  * MQ 消息异常
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 11:14
  */
 public class MqMessageException extends RuntimeException{

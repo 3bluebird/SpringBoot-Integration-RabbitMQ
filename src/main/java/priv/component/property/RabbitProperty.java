@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * Rabbit 属性配置类
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/13 18:44
  */
 @Data

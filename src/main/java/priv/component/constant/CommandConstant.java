@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 /**
  * MQ 命令常量类
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:37
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

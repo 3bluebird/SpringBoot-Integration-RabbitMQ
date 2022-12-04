@@ -14,7 +14,7 @@ import javax.validation.Valid;
 /**
  * 消息发送服务类
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:23
  */
 @Service

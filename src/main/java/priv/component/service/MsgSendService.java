@@ -8,7 +8,7 @@ import javax.validation.Valid;
 /**
  * 发送 MQ 消息服务
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:20
  */
 public interface MsgSendService {

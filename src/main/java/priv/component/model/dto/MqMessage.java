@@ -8,7 +8,7 @@ import priv.component.constant.enums.MsgTypeEnum;
 /**
  * MQ 消息
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 11:11
  */
 @Data

@@ -8,7 +8,7 @@ import priv.component.exception.MqMessageException;
 /**
  * MQ 消息工具类
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/15 10:31
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

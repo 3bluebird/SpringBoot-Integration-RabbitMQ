@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 /**
  * Exchange 常量
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 08:48
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

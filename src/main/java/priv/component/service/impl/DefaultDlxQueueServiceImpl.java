@@ -8,7 +8,7 @@ import priv.component.service.DlxQueueService;
 /**
  * 死信队列服务类
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/15 10:55
  */
 @Slf4j

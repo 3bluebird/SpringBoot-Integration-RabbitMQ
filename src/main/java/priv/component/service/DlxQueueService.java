@@ -6,7 +6,7 @@ import org.springframework.amqp.core.Message;
 /**
  * 死信队列处理类
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/15 10:53
  */
 public interface DlxQueueService {

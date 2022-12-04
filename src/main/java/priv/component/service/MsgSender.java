@@ -5,7 +5,7 @@ import org.springframework.lang.NonNull;
 /**
  * 消息发送
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 09:09
  */
 public interface MsgSender {

@@ -3,7 +3,7 @@ package priv.component.constant.enums;
 /**
  * 消息类型
  *
- * @author Mingpeng Zhuang
+ * @author Sunny Boy
  * @date 2022/9/14 11:12
  */
 public enum MsgTypeEnum {
